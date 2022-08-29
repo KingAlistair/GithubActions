@@ -1,0 +1,22 @@
+name: lone
+age: 25
+address: "myway num1"
+active: true
+key:
+  key1: value1
+  key2: value2
+  key3:
+jsonObject: { key1: value1, key2: value2}
+jobArray:
+  -item1
+  -item2
+myArray:
+  -item1
+  - {name: tine, age: 27}
+longtext: >
+    sdsa sdad
+    sf
+    sad
+noLineForText: |
+  sadsad sda
+  dsa sad
